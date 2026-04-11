@@ -21,7 +21,6 @@ An intelligent, user-centered platform that predicts sleep health outcomes and d
 - [Project Workflow](#-project-workflow)
 - [System Architecture](#-system-architecture)
 - [Technologies Used](#-technologies-used)
-- [Project Structure](#-project-structure)
 - [Application Experience](#-application-experience)
 - [Expected Impact](#-expected-impact)
 - [Future Enhancements](#-future-enhancements)
