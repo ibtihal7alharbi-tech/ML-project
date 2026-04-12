@@ -2,7 +2,7 @@
 
 An intelligent, user-centered platform that predicts sleep health outcomes and delivers personalized AI-driven recommendations to promote healthier habits, better rest, and improved daily performance.
 
-🔗 **Live App:** [app link here](PUT-YOUR-APP-LINK-HERE)
+🔗 **Live App:** (https://wisada.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red)
